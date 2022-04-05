@@ -1,0 +1,16 @@
+<strong>
+<h1>~<h6>
+<p>
+<u>(underline)
+<img>(image)
+<li>(list)
+<ul>(Unordered list)
+<ol>(Ordered list)
+<head>
+<body>
+<title>
+<meta>
+<a>(anchor 닺=링크를 연결하는 태그) href : hyper text + reference
+<a>는 링크를 연결하는 태그
+<a> 뒤에 hyper text 참조(reference)라는 것을 덧붙여서 링크를 연결시켜준다.
+<a href="http://www.youtube.com">과 같이 사용해주면 된다.
